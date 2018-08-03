@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<page>
+    <database name="test">
+        <table name="testTable">
+            <sql id="select_member">
+                SELECT * FROM  WHERE test=%s
+            </sql>
+        </table>
+
+    </database>
+</page>
